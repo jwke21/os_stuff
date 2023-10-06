@@ -1,0 +1,12 @@
+.idea/
+cmake-build-debug
+CMakeCache.txt
+CMakeFiles/
+Makefile
+VirtualMemFrameworkC
+cmake_install.cmake
+libunity.a
+.vscode/
+ext/
+build/
+*.swp
